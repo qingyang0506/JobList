@@ -12,6 +12,6 @@ This project's fontend is React( Typescript) , the backend is C# (web Api) and t
 
 3.Using ternimal or vscode terminal to redirect into the fontend folder
 
-4.run the command `npm install` to install the dependency
+4.Make sure the node have already installed on your laptop, then run the command `npm install` to install the dependency
 
-5.run the command `npm start`  to start the project.
+5.Run the command `npm start`  to start the project.
