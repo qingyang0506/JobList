@@ -32,7 +32,6 @@ function App() {
   }
 
   useEffect(() => {
-    if (openForDetailCard || openForNewCard) return;
     fetchData().then(res => {
       setJobList(res.data);
       setIsAscend(true);
